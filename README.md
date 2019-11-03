@@ -1,6 +1,6 @@
 # Coloring-Machine-from-SVG_image-using-marlin
 this project is built on github user [Peter Scriven](https://github.com/pjpscriv)'s [py-svg2gcode repository](https://github.com/pjpscriv/py-svg2gcode).\
-this project take any SVG image with size 300x300 mm or less and convert this image to Gcode. the Gcode then you can take the output file and send it serially to marlin firmware using [pronterface](https://github.com/user/repo/blob/branch/other_file.md).\
+this project take any SVG image with size 300x300 mm or less and convert this image to Gcode. then you can take the output file and send it serially to marlin firmware using [pronterface](https://github.com/user/repo/blob/branch/other_file.md).\
 as i can't have 16 million color on the machine, i used 1-NN (KNN) to get the closest fit to the color 
 
 ### Running the script
