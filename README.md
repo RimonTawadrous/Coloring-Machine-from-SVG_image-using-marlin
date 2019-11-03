@@ -8,8 +8,8 @@ as i can't have 16 million color on the machine, i used 1-NN (KNN) to get the cl
 2-open terminal or cmd and type python svg2gcode.py -i <path_to_file>.\
 3-you will find the output Gcode file with name <same_name>.gcode in gcode_output.\
 
-you can try $ python svg2gcode.py -i images/baby.svg
-
+you can try $ python svg2gcode.py -i images/baby.svg\
+you can test the output @ https://ncviewer.com/
 ### Changing angles of colors
 
 1-open config.py.\
